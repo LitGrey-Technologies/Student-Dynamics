@@ -48,12 +48,12 @@ You can setup Student Dynamics to your laptop/computer by watching this below yo
 |37 | Exam Scheduling Management |
 |38 | Exam Marks Grades Management|
 |39 | Exam Marks Management|
-|39 | Exam Marks Register |
-|39 | Exam Date Sheets Management|
-|39 | Library Books Management |
-|39 | Library Book Assigning Management |
-|39 | Library Book Return With Fine Management |
-|39 | Gallery for Insitute Images|
+|40 | Exam Marks Register |
+|41 | Exam Date Sheets Management|
+|42 | Library Books Management |
+|43 | Library Book Assigning Management |
+|44 | Library Book Return With Fine Management |
+|45 | Gallery for Insitute Images|
 
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
