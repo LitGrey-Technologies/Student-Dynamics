@@ -88,6 +88,17 @@ https://youtu.be/bR0QDrPYtxo
 |      	|                	| General Parameters      	| Student Dynamics configurations                 	| Completed 	|
 
 
+## Roadmap
+
+- Canteen Module
+- Transport Module
+- Biomatric attendance
+- RFID
+- SMS and whatsapp integration
+- Convert Dekstop to Web app
+
+
+
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
 
