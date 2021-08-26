@@ -3,9 +3,34 @@
 Student Dynamics is a School Management System provides user-friendly dashboards with login access for teachers, non-teaching staff, students, parents, and management personnel of your institution. Our Student Dynamics can handle multiple campuses, Students, HR, Income, expenses, multi-general ledger accounts, report cards, different kinds of users with their specific roles, permissions, and much more. Our Student Dynamics provides you almost 100% facilities in school management operations. For demo purposes, the app requires the internet to function seamlessly. But If you want we can deploy the whole backend to your school/institute infrastructure
 
 ## How To Setup Student Dynamics
-You can setup Student Dynamics to your laptop/computer by watching this below youtube video
+You can setup Student Dynamics to your laptop/computer by watching this below youtube video :
+https://youtu.be/TO6BAhHU1D0
 
-## Features
+## Student Dynamics Demonstration
+You can watch the demonstration of the student dynamics. Here is the youtube video : 
+https://youtu.be/bR0QDrPYtxo
+
+# Module And Features
+|   Sr No   |   Module Name   |
+|-----------------------|:-------------------------:|
+| 1  | Dashboards   | Resposnsible to manage the app dashboards|
+| 2  | HR   |  Resposnsible to manage all the proccess related to Humman Resources|
+| 3  | Academics   |
+| 4  | Lesson Planner   |
+| 5  | Student   |
+| 6  | Examination   |
+| 7  | Assessment   |
+| 8  | Financials   |
+| 9 | Gallery   |
+| 10 | Library   |
+| 11 | Notification   |
+| 12 | Reports   |
+| 13  | Preferences   |
+
+
+
+
+## Student Dynamics Features List
 
 |   Sr No   |   Enterprise Edition   |
 |-----------------------|:-------------------------:|
