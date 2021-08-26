@@ -11,6 +11,64 @@ You can watch the demonstration of the student dynamics. Here is the youtube vid
 https://youtu.be/bR0QDrPYtxo
 
 # Module And Features
+
+| SrNo | Module Name    | Feature Name            | Description                            | Status    |
+|------|----------------|-------------------------|----------------------------------------|-----------|
+| 1    | Dashboard      |                         | Main Dashboard of the Student Dynamics | Completed |
+| 2    | HR             | Employee Registration   |                                        |           |
+|      |                | Employee Approval       |                                        | Completed |
+|      |                | Employee Directory      |                                        | Completed |
+|      |                | Employee Attendance     |                                        | Completed |
+|      |                | Employee Leave Request  |                                        | Completed |
+|      |                | Employee Leave Approval |                                        | Completed |
+|      |                | Employee Leave Record   |                                        | Completed |
+|      |                | Employee Transfer       |                                        | Completed |
+| 3    | Academics      | Session Setup           |                                        | Completed |
+|      |                | Subjects                |                                        | Completed |
+|      |                | Class Grades            |                                        | Completed |
+|      |                | Class Section           |                                        | Completed |
+|      |                | Assign Teacher          |                                        | Completed |
+|      |                | Assign Subject          |                                        | Completed |
+|      |                | Time Table Scheduler    |                                        | Completed |
+|      |                | Term Types              |                                        | Completed |
+| 4    | Lesson Planner | Register Lesson         |                                        | Completed |
+|      |                | Register Topic          |                                        | Completed |
+|      |                | Syllabus Manager        |                                        | Completed |
+|      |                | Syllabus Overview       |                                        | Completed |
+| 5    | Student        | Student Directory       |                                        | Completed |
+|      |                | Student Registration    |                                        | Completed |
+|      |                | Student Enrollment      |                                        | Completed |
+|      |                | Student Attendance      |                                        | Completed |
+|      |                | Student Transfer        |                                        | Completed |
+| 6    | Examination    | Exam Type Registration  |                                        | Completed |
+|      |                | Marks Grade             |                                        | Completed |
+|      |                | Exam Division           |                                        | Completed |
+|      |                | Exam Scheduler          |                                        | Completed |
+|      |                | Exam Date Sheet         |                                        | Completed |
+| 7    | Assessment     | Upload Marks            |                                        | Completed |
+|      |                | Student Evaluation      |                                        |           |
+|      |                | View Results            |                                        |           |
+| 8    | Financials     | GL Account Registration |                                        |           |
+|      |                | Transaction Types       |                                        |           |
+|      |                | Transaction Charges     |                                        |           |
+|      |                | Fee Master              |                                        |           |
+|      |                | Class invoice           |                                        |           |
+|      |                | Fee Collection          |                                        |           |
+| 9    | Gallery        | Category                |                                        |           |
+|      |                | Photos                  |                                        |           |
+| 10   | Library        |                         |                                        |           |
+|      |                |                         |                                        |           |
+|      |                |                         |                                        |           |
+|      |                |                         |                                        |           |
+|      |                |                         |                                        |           |
+|      |                |                         |                                        |           |
+|      |                |                         |                                        |           |
+
+
+
+
+
+
 |   Sr No   |   Module Name   |
 |-----------------------|:-------------------------:|
 | 1  | Dashboards   | Resposnsible to manage the app dashboards|
