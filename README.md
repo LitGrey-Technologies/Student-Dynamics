@@ -98,6 +98,9 @@ https://youtu.be/bR0QDrPYtxo
 - Convert Dekstop to Web app
 
 
+## Feedback
+
+If you have any feedback, please reach out to us at exc@litgreytechnologies.com
 
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
