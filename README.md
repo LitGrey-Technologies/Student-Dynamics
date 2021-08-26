@@ -7,10 +7,21 @@ You can setup Student Dynamics to your laptop/computer by watching this below yo
 
 ## Features
 
-|   Community Edition   |   Enterprise Edition   |
+|   Sr No   |   Enterprise Edition   |
 |-----------------------|:-------------------------:|
-| Academic Year manage  | Academic Year manage   |
-
+| 1  | Academic Year manage   |
+| 2 |  Institute Management|
+| 3 |  Multi Branch Management |
+| 4 |  Academic Sesssions Management |
+| 5 | Academic Session Term Management |
+| 6 | Class Grade Management |
+| 7 | Class sections Management |
+| 8 | Class Subjects Nanagement |
+| 9 | Class Teacher Management |
+|10 | TimeTable Scheduler |
+|11 | Lesson Management | 
+|12 | Lesson Topic Management | 
+|13 | Lesson Syllabus Management | 
 
 
 |Sr No                  ||  Feature Name   |
