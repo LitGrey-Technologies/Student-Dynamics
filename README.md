@@ -91,6 +91,10 @@ https://youtu.be/bR0QDrPYtxo
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
 
+## Support
+
+For support, email exc@litgreytechnologies.com
+
 ## Contact Us
 
 Email:
