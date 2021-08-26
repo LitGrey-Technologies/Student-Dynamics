@@ -9,7 +9,7 @@ You can setup Student Dynamics to your laptop/computer by watching this below yo
 
 |   Sr No   |   Enterprise Edition   |
 |-----------------------|:-------------------------:|
-| 1  | Academic Year manage   |
+| 1 | Academic Year manage   |
 | 2 |  Institute Management|
 | 3 |  Multi Branch Management |
 | 4 |  Academic Sesssions Management |
@@ -22,24 +22,38 @@ You can setup Student Dynamics to your laptop/computer by watching this below yo
 |11 | Lesson Management | 
 |12 | Lesson Topic Management | 
 |13 | Lesson Syllabus Management | 
-
-
-|Sr No                  ||  Feature Name   |
-|-----------------------|:-------------------------:|
-|1|    | Institute Management|
-|1| | Multi Branch Management |
-|1| | Academic Sesssions Management |
-|1| | Academic Session Term Management |
-|1| | Class Grade Management |
-|1| | Class sections Management |
-|1| | Class Subjects Nanagement |
-|1| | Class Teacher Management |
-|1| | TimeTable Scheduler |
-|1| | Lesson Management | 
-|1| | Lesson Topic Management | 
-|1| | Lesson Syllabus Management | 
-
-
+|14 | Chart of Account Management |
+|15 | Transaction Types Management |
+|16 | Transaction Charges Management |
+|17 | Multi User Management |
+|18 | User Roles Management |
+|19 | Rest User Password |
+|20 | User Roles |
+|21 | Rest User Password |
+|22 | Change Password |
+|23 | User Activity|
+|24 | Mulit Countries Management |
+|25 | State/province Management|
+|26 | City Management |
+|27 | Multi Department Management |
+|28 | Student Registration Management |
+|29 | Student Enrolment Management |
+|30 | Student Profile Management |
+|31 | Employee Registration Management |
+|32 | Employee Approval Management |
+|33 | Employee Attendance Management |
+|34 | Employee Leave Management |
+|35 | Employee Leave Request Management |
+|36 | Employee Leave Request Approval Management |
+|37 | Exam Scheduling Management |
+|38 | Exam Marks Grades Management|
+|39 | Exam Marks Management|
+|39 | Exam Marks Register |
+|39 | Exam Date Sheets Management|
+|39 | Library Books Management |
+|39 | Library Book Assigning Management |
+|39 | Library Book Return With Fine Management |
+|39 | Gallery for Insitute Images|
 
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
