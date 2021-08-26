@@ -10,7 +10,7 @@ https://youtu.be/TO6BAhHU1D0
 You can watch the demonstration of the student dynamics. Here is the youtube video : 
 https://youtu.be/bR0QDrPYtxo
 
-# Module And Features
+# Modules And Features
 
 | SrNo 	| Module Name    	| Feature Name            	| Description                                     	| Status    	|
 |------	|----------------	|-------------------------	|-------------------------------------------------	|-----------	|
