@@ -56,87 +56,25 @@ https://youtu.be/bR0QDrPYtxo
 |      |                | Fee Collection          |                                        |           |
 | 9    | Gallery        | Category                |                                        |           |
 |      |                | Photos                  |                                        |           |
-| 10   | Library        |                         |                                        |           |
-|      |                |                         |                                        |           |
-|      |                |                         |                                        |           |
-|      |                |                         |                                        |           |
-|      |                |                         |                                        |           |
-|      |                |                         |                                        |           |
-|      |                |                         |                                        |           |
-
-
-
-
-
-
-|   Sr No   |   Module Name   |
-|-----------------------|:-------------------------:|
-| 1  | Dashboards   | Resposnsible to manage the app dashboards|
-| 2  | HR   |  Resposnsible to manage all the proccess related to Humman Resources|
-| 3  | Academics   |
-| 4  | Lesson Planner   |
-| 5  | Student   |
-| 6  | Examination   |
-| 7  | Assessment   |
-| 8  | Financials   |
-| 9 | Gallery   |
-| 10 | Library   |
-| 11 | Notification   |
-| 12 | Reports   |
-| 13  | Preferences   |
-
-
-
-
-## Student Dynamics Features List
-
-|   Sr No   |   Enterprise Edition   |
-|-----------------------|:-------------------------:|
-| 1 | Academic Year manage   |
-| 2 |  Institute Management|
-| 3 |  Multi Branch Management |
-| 4 |  Academic Sesssions Management |
-| 5 | Academic Session Term Management |
-| 6 | Class Grade Management |
-| 7 | Class sections Management |
-| 8 | Class Subjects Nanagement |
-| 9 | Class Teacher Management |
-|10 | TimeTable Scheduler |
-|11 | Lesson Management | 
-|12 | Lesson Topic Management | 
-|13 | Lesson Syllabus Management | 
-|14 | Chart of Account Management |
-|15 | Transaction Types Management |
-|16 | Transaction Charges Management |
-|17 | Multi User Management |
-|18 | User Roles Management |
-|19 | Rest User Password |
-|20 | User Roles |
-|21 | Rest User Password |
-|22 | Change Password |
-|23 | User Activity|
-|24 | Mulit Countries Management |
-|25 | State/province Management|
-|26 | City Management |
-|27 | Multi Department Management |
-|28 | Student Registration Management |
-|29 | Student Enrolment Management |
-|30 | Student Profile Management |
-|31 | Employee Registration Management |
-|32 | Employee Approval Management |
-|33 | Employee Attendance Management |
-|34 | Employee Leave Management |
-|35 | Employee Leave Request Management |
-|36 | Employee Leave Request Approval Management |
-|37 | Exam Scheduling Management |
-|38 | Exam Marks Grades Management|
-|39 | Exam Marks Management|
-|40 | Exam Marks Register |
-|41 | Exam Date Sheets Management|
-|42 | Library Books Management |
-|43 | Library Book Assigning Management |
-|44 | Library Book Return With Fine Management |
-|45 | Gallery for Insitute Images|
+| 10   | Library        | Add Book                |                                        |           |
+|      |                | Assign Book             |                                        |           |
+|      |                | Return Book             |                                        |           |
+| 11   | Notification   | Email Settings          |                                        |           |
+|      |                | Send Email              |                                        |           |
+|      |                | Notification            |                                        |           |
+| 12   | Preferences    | Country Setup           |                                        |           |
+|      |                | Currency Setup          |                                        |           |
+|      |                | School Types            |                                        |           |
+|      |                | User Roles              |                                        |           |
+|      |                | Department              |                                        |           |
+|      |                | Setup User              |                                        |           |
+|      |                | Access Manager          |                                        |           |
+|      |                | User Activity Status    |                                        |           |
+|      |                | Rest User Password      |                                        |           |
+|      |                | Change Password         |                                        |           |
+|      |                | Document Type           |                                        |           |
+|      |                | Week Days               |                                        |           |
+|      |                | General Parameters      |                                        |           |
 
 ## Note
 We are continuously improving our desktop application. The Student Dynamics Desktop Application is bought to you by LitGrey Technologies.
