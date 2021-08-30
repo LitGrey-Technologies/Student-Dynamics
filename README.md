@@ -2,6 +2,8 @@
 
 Student Dynamics is a School Management System provides user-friendly dashboards with login access for teachers, non-teaching staff, students, parents, and management personnel of your institution. Our Student Dynamics can handle multiple campuses, Students, HR, Income, expenses, multi-general ledger accounts, report cards, different kinds of users with their specific roles, permissions, and much more. Our Student Dynamics provides you almost 100% facilities in school management operations. For demo purposes, the app requires the internet to function seamlessly. But If you want we can deploy the whole backend to your school/institute infrastructure
 
+![alt text](https://github.com/LitGrey-Technologies/Student-Dynamics/blob/main/Dashboard.png)
+
 ## How To Setup Student Dynamics
 You can setup Student Dynamics to your laptop/computer by watching this below youtube video :
 https://youtu.be/TO6BAhHU1D0
